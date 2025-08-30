@@ -1,8 +1,3 @@
-Perfeito! 🎉 Agora que seu projeto está no GitHub, podemos criar um **README.md** para deixá-lo mais profissional e explicativo. Aqui está um modelo para o seu site de cafeteria:
-
----
-
-```markdown
 # Cafeteria - Site Institucional
 
 Bem-vindo ao repositório do site **Cafeteria**, um projeto front-end desenvolvido com **HTML e CSS**.
